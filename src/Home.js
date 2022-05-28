@@ -38,7 +38,7 @@ function Home() {
             </a>
             </div>
             <div className = 'icon-pair'>
-            <a className = 'facebook-link' target= "_blank" rel="noreferrer" href="https://www.facebook.com/silo">
+            <a className = 'facebook-link' target= "_blank" rel="noreferrer" href="https://www.facebook.com/Silo-106381351977349/">
             <img alt="Freepik: facebook" src={facebook}></img>
             </a>
             <a className = 'tiktok-link' target= "_blank" rel="noreferrer" href="https://www.tiktok.com/@silo.pods">
