@@ -30,8 +30,9 @@ function Home() {
             <div className ="SocialMedia">
         <div className="icons">
             <div className= 'icon-pair'>
-            <a className = 'linkedin-link' target= "_blank" rel="noreferrer" href="https://www.linkedin.com/company/worksilo/"></a>
+            <a className = 'linkedin-link' target= "_blank" rel="noreferrer" href="https://www.linkedin.com/company/worksilo/">
             <img alt="riajulislam: linkedin" src={linkedin}></img>
+            </a>
             <a className = 'instagram-link' target= "_blank" rel="noreferrer" href="https://www.instagram.com/silopods/">            
             <img alt = "pixel perfect: instagram" src={instagram}></img>
             </a>
