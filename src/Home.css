@@ -1,0 +1,69 @@
+body {
+    font-family: Poppins;
+}
+
+.Home, .Applink, .SocialMedia{
+    padding-top:2rem;
+}
+.logo{
+    width: 7rem;
+    height: auto;
+    display: block;
+    margin: 2rem auto 4rem auto;
+    border-radius: 1rem;
+    background-color: rgba(84,60,27,1);
+}
+
+img{
+    width: 3rem;
+    height: auto;
+    margin: .5rem;
+}
+
+img:hover{
+    transform: scale(1.2);
+    animation-delay: .3s;
+}
+
+.googleplay{
+    width: 13rem;
+    margin:auto;
+}
+
+.googleplaylink{
+display:block;
+}
+.appstorelink{
+    display: block;
+}
+.appstore{
+    width: 10rem;
+    margin:1.5rem auto auto auto;
+}
+
+
+.website, .download, .contact{
+    display:block;   
+    margin: 2rem auto;
+    padding:12px;
+    border-radius: 1rem;
+    background-color: rgba(84,60,27,1);
+    color: #e9dfcf;
+    text-decoration: none;
+    width:10rem;
+    text-align: center;
+}
+
+.website:hover, .download:hover, .contact:hover{
+    background-color: #e9dfcf;
+    color: rgba(84,60,27,1);
+}
+
+.icons{
+    display:block;
+}
+
+.icon-pair{
+    display:inline-block;
+}
+
