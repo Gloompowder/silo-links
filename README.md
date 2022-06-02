@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# SILO-LINKS is a linktree dupe that I built using React, HTML, CSS, and Javascript. 
+
+I built it for SILO as a means to avoid the cost of monthly linktree subscription payments while ahving a more customizable experience with React. It will be linked on various social media and I'm excited to showcase it!
+
+
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
